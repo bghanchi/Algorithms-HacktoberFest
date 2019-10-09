@@ -12,6 +12,11 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `A` [KMP Algorithm](<C++/KMP(string-matching-algorithm).cpp>)
 - `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
 - `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
+- `A` [Fenwick_Tree](C++/Fenwick_Tree.cpp)
+- `A` [Trie](C++/Trie.cpp)
+- `A` [BFS](C++/BFS.cpp)
+- `A` [Graph](C++/Graph_Hashmap.cpp)
+- `A` [Lazt_propagation](C++/Lazy_propagation)
 
 ## JavaScript
 
